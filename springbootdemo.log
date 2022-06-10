@@ -534,3 +534,6 @@ java.lang.NumberFormatException: For input string: ""
 2022-06-10 18:17:28.448  INFO 14124 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
 2022-06-10 18:17:28.485  INFO 14124 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
 2022-06-10 18:17:28.494  INFO 14124 --- [restartedMain] com.ahut.cones.ConesApplication          : Started ConesApplication in 2.413 seconds (JVM running for 3.123)
+2022-06-10 18:19:06.971  INFO 14124 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-06-10 18:19:06.971  INFO 14124 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-06-10 18:19:06.973  INFO 14124 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
